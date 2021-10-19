@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="100" height="100"/>
 
 ---
 
